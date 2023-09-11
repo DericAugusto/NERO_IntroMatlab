@@ -1,0 +1,1 @@
+Nessa aula veremos como editar algumas propriedades dos gráficos gerados pela função plot. Os princípios dessa aula também poderão ser utilizados em outros tipos de gráficos, como polar, pie e bar.

@@ -1,0 +1,1 @@
+Para finalizar o módulo II, aplicaremos alguns conceitos já vistos anteriormente, em junção com a função sort(), para ordenar um certo vetor e, também, retornar a posição de uma certa chave que esteja contido nele.

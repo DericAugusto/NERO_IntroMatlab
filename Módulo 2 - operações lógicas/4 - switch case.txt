@@ -1,0 +1,3 @@
+Concluindo a parte de estruturas relacionais, trataremos do uso da estrutura switch-case.
+
+Dando continuidade aos estudos de estruturas relacionais, essa lista apresenta alguns exemplos mais abstratos que podem ser resolvidos utilizando-se if-elseif ou a estrutura switch-case.

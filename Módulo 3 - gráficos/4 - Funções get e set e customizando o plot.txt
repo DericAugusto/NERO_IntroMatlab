@@ -1,0 +1,1 @@
+Nessa aula veremos para que servem as funções get e set e veremos métodos de customizar parâmetros importantes dos nossos gráficos sem precisar ir no editor como foi visto na segunda aula.

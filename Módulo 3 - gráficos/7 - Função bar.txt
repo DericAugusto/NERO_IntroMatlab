@@ -1,0 +1,1 @@
+Nessa aula veremos como criar diferentes tipos de gráficos de barra com a função bar.

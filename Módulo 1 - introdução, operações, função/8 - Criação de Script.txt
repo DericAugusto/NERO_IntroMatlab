@@ -1,0 +1,3 @@
+Nesta aula veremos o processo de criação de script, colocando em prática alguns dos conteúdos vistos anteriormente.
+
+Essa lista aborda o processo de criação de script, afim de solidificar o conhecimento já visto e preparar os alunos para o processo de criação e chamada de funções.

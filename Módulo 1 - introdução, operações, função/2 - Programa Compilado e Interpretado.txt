@@ -1,0 +1,1 @@
+Uma linguagem de programação pode ser convertida, ou traduzida, em código de máquina por compilação ou interpretação, que juntas podem ser chamadas de tradução. Nessa aula, são tratadas as diferenças entre esses dois tipos de linguagem. Além disso, será visto o processo de utilizar/solicitar memória do computador durante a execução de um programa.

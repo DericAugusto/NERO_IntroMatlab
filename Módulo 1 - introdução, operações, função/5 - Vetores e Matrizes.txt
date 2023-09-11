@@ -1,0 +1,1 @@
+Definição e declaração de vetores e matrizes.

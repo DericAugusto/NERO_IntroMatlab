@@ -1,0 +1,1 @@
+Nessa aula serão mostradas algumas operações básicas que podem ser utilizadas diretamente no Command Window.

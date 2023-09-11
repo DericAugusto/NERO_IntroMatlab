@@ -1,0 +1,5 @@
+Como foi dito, os estudantes devem editar o arquivo em anexo afim de solucionar as questões propostas. Para validar o resultado obtido, é possível executar cada bloco separadamente, como mostrado nos encontros síncronos usando ctrl + enter ou selecionando o conteúdo do bloco e apertando F9.
+
+Em comum acordo, o recebimento do certificado será condicional à entrega desta avaliação. Qualquer dúvida, sintam-se a vontade para entrar em contato.
+
+Para evitar erros ao abrir o arquivo, ele foi salvo no formato .txt, assim, vocês podem copiar o conteúdo do arquivo e colar em um script do Matlab, para enviar a avaliação pode-se utilizar a mesma ideia.

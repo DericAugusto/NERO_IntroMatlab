@@ -1,0 +1,3 @@
+Neste vídeo mostraremos como utilizar a função break, que será útil caso desejarmos estabelecer condições de parada dentro de nosso loop.
+
+Nessa lista, são vistos alguns exemplos sobre estruturas de repetição, os quais devem ser resolvidos utilizando-se as estruturas for, while e, se necessário, o comando break.

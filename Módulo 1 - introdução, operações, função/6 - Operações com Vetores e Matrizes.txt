@@ -1,0 +1,1 @@
+Nesta aula, serão mostrada algumas manipulações que podemos fazer relacionadas ao tipo de variável array.

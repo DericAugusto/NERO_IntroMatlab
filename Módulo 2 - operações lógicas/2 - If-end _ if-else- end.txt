@@ -1,0 +1,3 @@
+esta aula, damos início ao estudo de controle de fluxo, tratando de algumas estruturas condicionais, If e else.
+
+Nessa lista, são passados alguns exemplos de operadores e estruturas relacionais, os exercícios podem ser facilmente resolvidos utilizando-se apenas if-else-end. 

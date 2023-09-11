@@ -1,0 +1,1 @@
+Nessa aula iremos aprender como utilizar a função subplot e como isso nos permite criar vários arranjos de gráficos diferentes.

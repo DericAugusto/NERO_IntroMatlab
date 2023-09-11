@@ -1,0 +1,1 @@
+Nessa aula veremos sobre como utilizar a função linspace e como ela pode ser útil na criação de gráficos.

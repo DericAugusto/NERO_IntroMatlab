@@ -1,0 +1,1 @@
+Nesta aula são mostradas as operações essenciais para manipulação de variável do tipo array.

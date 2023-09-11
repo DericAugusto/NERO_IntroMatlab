@@ -1,0 +1,1 @@
+Nesta aula iremos mostrar o processo de criação de funções com uma ou mais variáveis de saída.

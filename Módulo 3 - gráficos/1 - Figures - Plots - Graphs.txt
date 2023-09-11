@@ -1,0 +1,1 @@
+Nessa aula iremos ter um delineamento do que esse módulo irá abranger e começaremos vendo sobre o que são figures, plots e gráficos.

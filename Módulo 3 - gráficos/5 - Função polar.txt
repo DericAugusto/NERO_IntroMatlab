@@ -1,0 +1,1 @@
+Nessa aula veremos como utilizar a função polar para a elaboração de gráficos não cartesianos.

@@ -1,0 +1,3 @@
+Nesta aula iremos ver, na prática, o processo de criação e de chamada de funções.
+
+Nessa lista, o aluno deverá criar 3 funções e um script que chame as três funções, afim de executar aquilo que foi pedido.

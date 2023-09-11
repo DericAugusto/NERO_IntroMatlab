@@ -1,0 +1,1 @@
+Apresentação do software Matlab, barra de menu, Current Folder, Editor, Command Window, Workspace, Command History e Help.

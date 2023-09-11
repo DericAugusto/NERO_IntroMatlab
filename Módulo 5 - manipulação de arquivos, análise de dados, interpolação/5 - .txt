@@ -1,0 +1,1 @@
+Interpolamos dados e analisamos seu comportamento estatístico, utilizando manipulação de arquivos para ler e guardar nossos resultados em diferentes formatos.
